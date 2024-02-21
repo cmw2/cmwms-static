@@ -1,0 +1,1 @@
+# cmwms-static
